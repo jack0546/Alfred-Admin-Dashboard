@@ -11,5 +11,5 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Admin Dashboard running at http://localhost:${PORT}`);
-    console.log(`Open in your browser: http://localhost:${PORT}`);
+    console.log(`Open in your browser: http://loc alhost:${PORT}`);
 });
